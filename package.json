@@ -1,0 +1,30 @@
+{
+  "name": "lx",
+  "version": "0.0.0",
+  "description": "The require('lx') meetup module with all of the resources and secret sauce features!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/require-lx/lx.git"
+  },
+  "keywords": [
+    "meetup",
+    "node",
+    "javascript",
+    "require",
+    "lisbon",
+    "portugal",
+    "portugal",
+    "portugal",
+    "portugal"
+  ],
+  "author": "require ('lx')",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/require-lx/lx/issues"
+  },
+  "homepage": "https://github.com/require-lx/lx"
+}
